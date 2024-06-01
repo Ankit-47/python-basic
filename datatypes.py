@@ -4,7 +4,7 @@ print({lst[-1]}) #if u dont know the no or length of strings simply use [-index 
 
 lst2=lst[1:3] #this will show the items listed between 1-3 excluding 3 : it means last index no i.e 3 will be excluded
 
-#del lst[1]  --> delete all the iten of the list
+#del lst[1]  --> delete all the item of the list
 #lst2=lst[:3]-->  HERE YOU WILL GOT ITEM BEFORE INDEX 3  UPTO FIRST
 #lst2=lst[1:] --> HERE YOU WILL GOT ITEM AFTER INDEX 1 UPTO LAST
 
@@ -28,5 +28,16 @@ print(lst2)
 
 
 #USING FOR LOOP IN LIST
+
+st1= [1,"ankit",2,3,"katwal"]
+for val in lst1: #this will shwo up the list one by one  as shown below:
+#1
+#ankit
+#2
+#3
+#katwal
+  print (val)
+
+  
 
 
