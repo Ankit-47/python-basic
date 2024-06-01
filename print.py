@@ -7,14 +7,13 @@ print("Hello world");
 a=10;
 b=20;
 c=30;
-sum=a+b+c;
+sum=a+b+c; #adition of two values
 
 print("Sum=",sum);
 
 
-difference=b-a;
+difference=b-a; #substract two values
 print("Difference=",difference);
-
 print("multiplication=",a*b);
 print("float divisoin",b//a)  #// this notation in python shows the value before floating point 
 
