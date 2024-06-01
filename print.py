@@ -16,10 +16,9 @@ difference=b-a;
 print("Difference=",difference);
 
 print("multiplication=",a*b);
-print("float divisoin",b//a)
+print("float divisoin",b//a)  #// this notation in python shows the value before floating point 
 
 
-#type casting
-a="10"
+
 
 
