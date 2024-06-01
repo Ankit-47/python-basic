@@ -20,5 +20,6 @@ print("float divisoin",b//a)
 
 
 #type casting
+a="10"
 
 
